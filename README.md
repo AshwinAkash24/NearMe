@@ -1,5 +1,5 @@
-# Ex04 Places Around Me
-## Date: 
+# Ex04 - Places Around Me
+## Date: 25-03-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -156,10 +156,18 @@ Execute the programs and publish them.
  </html>
 ```
 ## OUTPUT
-
-
-
-
+## map.html
+![map html](https://github.com/AshwinAkash24/NearMe/assets/144979248/60c6b89c-6f77-4699-9e7b-f6553e7db1a2)
+## temple.html
+![temple](https://github.com/AshwinAkash24/NearMe/assets/144979248/ebf586a0-a7ff-4b66-a603-5d5bd5c799fd)
+## cinema.html
+![cinema](https://github.com/AshwinAkash24/NearMe/assets/144979248/3ae7ae23-0f39-463b-b963-935b64525a62)
+## hotel.html
+![hotel](https://github.com/AshwinAkash24/NearMe/assets/144979248/0a3982dd-8d58-4b66-ae8d-3225b52a274b)
+## cont.html
+![cont](https://github.com/AshwinAkash24/NearMe/assets/144979248/720ec027-e1ba-49ae-bb50-83e3eb807575)
+## studio.html
+![inplace](https://github.com/AshwinAkash24/NearMe/assets/144979248/ea218fd6-a216-4b48-98f6-d9ebfc050f30)
 
 
 
